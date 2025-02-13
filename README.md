@@ -5,27 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Financial Fraud Detection System - README</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      line-height: 1.6;
-      margin: 2rem;
-    }
-    h1, h2, h3 {
-      color: #0056b3;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    li {
-      margin-bottom: 0.5rem;
-    }
-    code {
-      background-color: #e8e8e8;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
+
   </style>
 </head>
 <body>
